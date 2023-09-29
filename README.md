@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalie</h1>
 <h3 align="center">A healthcare professional looking to transition into software development</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on my portfolio
 
-- 📫 How to reach me **nataliemoran89@live.co.uk**
+- 📫 How to reach me **nataliemoran89@live.co.uk - 07476706463**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
