@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalie</h1>
 <h3 align="center">A healthcare professional looking to transition into software development</h3>
 
-- 🔭 I’m currently working on - my portfolio
+- I’m currently working on - a Minesweeper-style game in JavaScript
 
-- 📫 Email me - nataliemoran89@live.co.uk
-  
-- Call me - 07476706463
+- Check out my portfolio at natmonlee.github.io/portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
