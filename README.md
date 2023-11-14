@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalie</h1>
 <h3 align="center">A healthcare professional looking to transition into software development</h3>
 
-- I’m currently working on - a Minesweeper-style game in JavaScript
+- I’m currently learning the basics of React.js
 
 - Check out my portfolio at natmonlee.github.io/portfolio
 
