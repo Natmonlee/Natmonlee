@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalie</h1>
 <h3 align="center">A healthcare professional looking to transition into software development!</h3>
 
-- 🔭 I’m currently working on [updating my portfolio](https://natmonlee.github.io/portfolio/)
-
-- 🌱 I’m currently learning **TypeScript and React**
+- 🔭 I’m currently working on a React App written in TypeScript that compares fruit and vegetable nutritional values from a databaase
+  
+- 🌱 I’m currently learning about SQL databases 
 
 - 👨‍💻 All of my projects are available at [https://natmonlee.github.io/portfolio/](https://natmonlee.github.io/portfolio/)
 
