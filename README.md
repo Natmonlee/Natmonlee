@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalie</h1>
-<h3 align="center">A healthcare professional looking to transition into software development!</h3>
-
-- 🔭 I’m currently working on a React App written in TypeScript that compares fruit and vegetable nutritional values from a databaase
-  
-- 🌱 I’m currently learning about SQL databases 
+<h3 align="center">Software Engineer at Protolyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://natmonlee.github.io/portfolio/](https://natmonlee.github.io/portfolio/)
 
 - 📫 How to reach me **nataliemoran89@live.co.uk**
-
-- 📄 View my CV [https://natmonlee.github.io/portfolio/documents/Natalie%20Moran%20CV%202023.pdf](https://natmonlee.github.io/portfolio/documents/Natalie%20Moran%20CV%202023.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
